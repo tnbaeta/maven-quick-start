@@ -16,7 +16,7 @@ public class Application {
 			greeting.add("Hello");
 
 			for(String greetings : greeting) {
-				System.out.println("Greeting: " + greeting);
+				System.out.println("Greeting: " + greetings);
 			}
 		}
     
